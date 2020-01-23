@@ -16,6 +16,9 @@
     <modules>
         <module>base</module>
         <module>webapp</module>
+        <module>discoveri-heartihealth-exception</module>
+        <module>discoveri-heartihealth-model</module>
+        <module>discoveri-heartihealth-configuration</module>
     </modules>
 
     <properties>
